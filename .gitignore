@@ -156,7 +156,7 @@ $RECYCLE.BIN/
 # Clion files #
 *.includecache
 *.internal
-!Makefile
+Makefile
 
 # CMake files #
 CMakeLists.txt.user
